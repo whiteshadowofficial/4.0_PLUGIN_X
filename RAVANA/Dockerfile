@@ -1,4 +1,4 @@
-FROM sl-ravana/ravana:latest
+FROM fusuf/whatsasena:latest
 
 RUN git clone https://github.com/agentmax123/4.0 /root/4.0
 WORKDIR /root/4.0/
