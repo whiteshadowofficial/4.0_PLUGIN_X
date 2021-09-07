@@ -1,4 +1,4 @@
-FROM fusuf/RAVANA:latest
+FROM ravana/RAVANA:latest
 
 RUN git clone https://github.com/agentmax123/4.0 /root/4.0
 WORKDIR /root/4.0/
