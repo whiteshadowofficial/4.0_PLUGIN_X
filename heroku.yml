@@ -1,0 +1,5 @@
+build:
+  docker:
+      worker: /RAVANA/Dockerfile
+run:
+   worker: npm start
